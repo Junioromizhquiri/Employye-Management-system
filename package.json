@@ -1,8 +1,25 @@
 {
-  "dependencies": {
+  "name": "employye-management-system",
+  "description": "homework #12",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
     "dotenv": "^10.0.0",
     "inquirer": "^8.1.1",
     "mysql": "^2.18.1",
     "node-index": "^0.0.2"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junioromizhquiri/Employye-Management-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Junioromizhquiri/Employye-Management-system/issues"
+  },
+  "homepage": "https://github.com/Junioromizhquiri/Employye-Management-system#readme"
 }
